@@ -1,0 +1,230 @@
+return_id,order_id,return_date,reason,resolution
+1,10008,2023-02-24,Damaged,Replaced
+2,10020,2023-07-14,Wrong Item,Refunded
+3,10022,2023-02-28,Late Delivery,Replaced
+4,10054,2023-09-05,Wrong Item,Refunded
+5,10068,2024-04-25,Not as described,Pending
+6,10072,2024-07-14,Changed Mind,Replaced
+7,10074,2024-09-28,Not as described,Replaced
+8,10075,2023-12-15,Wrong Item,Refunded
+9,10078,2023-11-16,Late Delivery,Replaced
+10,10089,2024-01-24,Not as described,Pending
+11,10118,2024-09-15,Not as described,Refunded
+12,10142,2025-01-03,Damaged,Pending
+13,10151,2023-07-01,Damaged,Replaced
+14,10152,2023-05-04,Not as described,Refunded
+15,10172,2023-08-12,Damaged,Pending
+16,10176,2024-07-11,Changed Mind,Replaced
+17,10181,2023-09-17,Changed Mind,Refunded
+18,10191,2024-01-27,Late Delivery,Replaced
+19,10211,2024-08-26,Changed Mind,Replaced
+20,10213,2023-07-22,Late Delivery,Pending
+21,10214,2024-03-16,Wrong Item,Pending
+22,10215,2024-03-13,Changed Mind,Pending
+23,10241,2025-02-03,Damaged,Replaced
+24,10272,2024-06-23,Wrong Item,Pending
+25,10281,2025-02-17,Wrong Item,Refunded
+26,10285,2024-04-13,Changed Mind,Pending
+27,10289,2023-10-15,Wrong Item,Replaced
+28,10300,2023-11-11,Damaged,Replaced
+29,10331,2024-12-13,Late Delivery,Refunded
+30,10368,2025-03-03,Changed Mind,Refunded
+31,10372,2024-08-29,Late Delivery,Pending
+32,10379,2023-04-25,Changed Mind,Pending
+33,10391,2023-05-03,Not as described,Replaced
+34,10410,2025-01-07,Wrong Item,Pending
+35,10412,2023-09-05,Not as described,Refunded
+36,10425,2024-11-13,Not as described,Refunded
+37,10464,2024-10-24,Wrong Item,Replaced
+38,10468,2025-06-27,Late Delivery,Replaced
+39,10477,2023-03-08,Late Delivery,Replaced
+40,10490,2024-04-12,Wrong Item,Pending
+41,10501,2023-02-08,Wrong Item,Pending
+42,10522,2023-05-12,Damaged,Refunded
+43,10528,2023-03-27,Changed Mind,Pending
+44,10552,2023-03-11,Damaged,Replaced
+45,10560,2024-12-03,Wrong Item,Replaced
+46,10574,2025-06-11,Late Delivery,Refunded
+47,10585,2023-02-18,Wrong Item,Refunded
+48,10592,2025-04-09,Damaged,Refunded
+49,10593,2024-03-29,Not as described,Pending
+50,10601,2024-09-10,Late Delivery,Pending
+51,10608,2023-07-29,Late Delivery,Refunded
+52,10612,2023-08-22,Damaged,Refunded
+53,10644,2024-06-15,Wrong Item,Pending
+54,10674,2023-04-04,Damaged,Pending
+55,10704,2025-03-26,Damaged,Replaced
+56,10716,2024-07-06,Not as described,Pending
+57,10723,2023-11-11,Changed Mind,Pending
+58,10724,2025-03-05,Damaged,Replaced
+59,10726,2023-08-28,Changed Mind,Replaced
+60,10737,2024-10-29,Not as described,Pending
+61,10783,2024-09-09,Late Delivery,Pending
+62,10820,2025-06-17,Late Delivery,Pending
+63,10833,2024-08-07,Late Delivery,Refunded
+64,10834,2025-03-02,Changed Mind,Refunded
+65,10850,2024-09-23,Changed Mind,Refunded
+66,10851,2025-05-26,Wrong Item,Replaced
+67,10862,2024-04-09,Late Delivery,Replaced
+68,10893,2025-07-04,Changed Mind,Pending
+69,10903,2023-01-29,Changed Mind,Refunded
+70,10917,2024-01-30,Damaged,Pending
+71,10945,2025-06-19,Not as described,Pending
+72,10948,2024-11-18,Changed Mind,Pending
+73,10951,2023-02-11,Damaged,Replaced
+74,10955,2024-05-13,Not as described,Refunded
+75,10975,2024-10-08,Damaged,Pending
+76,11023,2024-08-15,Wrong Item,Replaced
+77,11061,2023-10-12,Damaged,Replaced
+78,11062,2024-11-26,Late Delivery,Refunded
+79,11073,2023-02-19,Wrong Item,Refunded
+80,11097,2025-06-16,Wrong Item,Pending
+81,11105,2023-05-24,Wrong Item,Refunded
+82,11110,2023-09-02,Not as described,Pending
+83,11133,2024-08-20,Wrong Item,Pending
+84,11137,2024-07-05,Late Delivery,Replaced
+85,11139,2025-06-11,Damaged,Pending
+86,11148,2025-06-30,Not as described,Pending
+87,11153,2023-12-27,Wrong Item,Replaced
+88,11159,2023-08-29,Not as described,Replaced
+89,11167,2024-04-13,Wrong Item,Replaced
+90,11192,2024-02-21,Wrong Item,Replaced
+91,11195,2023-06-08,Not as described,Refunded
+92,11198,2024-08-31,Not as described,Refunded
+93,11215,2024-10-13,Wrong Item,Replaced
+94,11236,2025-04-23,Changed Mind,Replaced
+95,11256,2024-12-24,Changed Mind,Replaced
+96,11262,2023-07-15,Late Delivery,Replaced
+97,11271,2025-03-08,Not as described,Replaced
+98,11288,2023-12-16,Damaged,Pending
+99,11291,2024-01-04,Wrong Item,Pending
+100,11299,2024-03-31,Late Delivery,Refunded
+101,11304,2024-07-11,Changed Mind,Pending
+102,11322,2023-02-28,Wrong Item,Pending
+103,11347,2023-10-15,Damaged,Pending
+104,11362,2023-10-17,Wrong Item,Replaced
+105,11379,2023-09-03,Late Delivery,Pending
+106,11380,2023-10-28,Late Delivery,Replaced
+107,11388,2023-04-08,Late Delivery,Refunded
+108,11398,2023-08-07,Not as described,Replaced
+109,11425,2024-10-12,Damaged,Replaced
+110,11437,2023-03-31,Changed Mind,Replaced
+111,11444,2023-08-21,Late Delivery,Refunded
+112,11485,2023-06-10,Late Delivery,Pending
+113,11488,2024-12-15,Damaged,Refunded
+114,11493,2025-02-22,Changed Mind,Replaced
+115,11507,2025-04-13,Changed Mind,Refunded
+116,11522,2024-12-23,Wrong Item,Replaced
+117,11563,2023-10-20,Late Delivery,Replaced
+118,11570,2023-01-24,Not as described,Pending
+119,11598,2024-01-29,Late Delivery,Replaced
+120,11621,2024-10-19,Wrong Item,Pending
+121,11625,2025-01-06,Damaged,Pending
+122,11626,2024-07-26,Late Delivery,Replaced
+123,11630,2025-02-25,Late Delivery,Refunded
+124,11632,2024-03-31,Not as described,Replaced
+125,11653,2023-04-21,Damaged,Refunded
+126,11654,2025-06-17,Not as described,Pending
+127,11656,2024-07-28,Damaged,Replaced
+128,11658,2025-02-03,Not as described,Refunded
+129,11659,2023-05-14,Late Delivery,Replaced
+130,11669,2025-03-01,Not as described,Refunded
+131,11672,2023-02-19,Changed Mind,Pending
+132,11675,2023-05-01,Changed Mind,Replaced
+133,11699,2023-10-31,Late Delivery,Refunded
+134,11705,2024-06-12,Not as described,Refunded
+135,11709,2024-06-18,Not as described,Replaced
+136,11716,2024-04-15,Changed Mind,Refunded
+137,11729,2024-07-14,Wrong Item,Replaced
+138,11735,2023-10-14,Late Delivery,Pending
+139,11739,2024-03-13,Changed Mind,Refunded
+140,11747,2023-02-03,Not as described,Refunded
+141,11760,2024-08-23,Damaged,Refunded
+142,11764,2024-08-20,Late Delivery,Pending
+143,11771,2023-11-25,Late Delivery,Replaced
+144,11827,2023-04-20,Wrong Item,Refunded
+145,11839,2023-04-03,Wrong Item,Replaced
+146,11868,2025-01-30,Wrong Item,Replaced
+147,11881,2024-04-14,Wrong Item,Pending
+148,11882,2025-01-04,Damaged,Replaced
+149,11902,2023-06-13,Changed Mind,Pending
+150,11917,2023-02-23,Not as described,Replaced
+151,11936,2024-05-11,Late Delivery,Refunded
+152,11973,2024-04-22,Late Delivery,Pending
+153,11998,2023-11-04,Not as described,Refunded
+154,12029,2024-09-29,Damaged,Refunded
+155,12048,2024-09-16,Late Delivery,Refunded
+156,12057,2025-04-18,Late Delivery,Pending
+157,12072,2024-09-22,Late Delivery,Replaced
+158,12083,2024-07-26,Not as described,Refunded
+159,12092,2023-09-13,Changed Mind,Refunded
+160,12107,2024-02-12,Late Delivery,Pending
+161,12139,2024-07-07,Changed Mind,Pending
+162,12140,2023-05-17,Late Delivery,Replaced
+163,12149,2025-07-06,Changed Mind,Pending
+164,12158,2023-06-09,Damaged,Refunded
+165,12161,2024-05-11,Damaged,Refunded
+166,12173,2023-11-27,Wrong Item,Replaced
+167,12210,2023-08-16,Changed Mind,Refunded
+168,12233,2024-10-15,Damaged,Pending
+169,12234,2023-05-26,Damaged,Refunded
+170,12251,2024-04-15,Wrong Item,Replaced
+171,12253,2023-01-25,Changed Mind,Pending
+172,12276,2025-01-01,Late Delivery,Refunded
+173,12300,2025-04-18,Late Delivery,Pending
+174,12331,2025-01-01,Wrong Item,Replaced
+175,12354,2024-04-30,Changed Mind,Pending
+176,12386,2024-05-02,Wrong Item,Replaced
+177,12395,2023-08-31,Wrong Item,Pending
+178,12403,2023-06-20,Late Delivery,Replaced
+179,12406,2024-08-09,Changed Mind,Refunded
+180,12411,2023-01-28,Not as described,Replaced
+181,12419,2024-03-09,Changed Mind,Refunded
+182,12458,2024-07-16,Late Delivery,Refunded
+183,12501,2023-03-25,Not as described,Pending
+184,12514,2025-02-11,Damaged,Pending
+185,12522,2023-07-15,Late Delivery,Refunded
+186,12538,2023-10-06,Late Delivery,Pending
+187,12548,2023-08-04,Not as described,Pending
+188,12561,2023-01-18,Wrong Item,Pending
+189,12571,2023-03-03,Changed Mind,Refunded
+190,12585,2023-07-09,Damaged,Replaced
+191,12589,2024-04-27,Damaged,Refunded
+192,12592,2023-11-02,Wrong Item,Pending
+193,12595,2025-02-14,Changed Mind,Pending
+194,12599,2024-03-19,Damaged,Replaced
+195,12612,2024-05-21,Wrong Item,Pending
+196,12639,2024-12-14,Changed Mind,Pending
+197,12666,2024-09-17,Damaged,Pending
+198,12668,2023-07-16,Not as described,Refunded
+199,12694,2024-01-02,Changed Mind,Refunded
+200,12701,2024-06-14,Changed Mind,Replaced
+201,12708,2024-11-05,Late Delivery,Refunded
+202,12711,2023-03-11,Late Delivery,Refunded
+203,12713,2024-08-17,Late Delivery,Pending
+204,12732,2025-05-17,Damaged,Refunded
+205,12736,2025-01-11,Damaged,Refunded
+206,12760,2023-10-25,Damaged,Pending
+207,12783,2025-04-02,Wrong Item,Refunded
+208,12798,2023-09-15,Not as described,Refunded
+209,12801,2023-05-03,Changed Mind,Pending
+210,12828,2025-01-26,Late Delivery,Pending
+211,12836,2024-06-12,Changed Mind,Replaced
+212,12837,2025-02-04,Late Delivery,Replaced
+213,12841,2025-06-21,Damaged,Refunded
+214,12847,2023-03-15,Not as described,Pending
+215,12856,2025-03-05,Not as described,Replaced
+216,12865,2023-02-07,Changed Mind,Replaced
+217,12871,2023-10-25,Changed Mind,Pending
+218,12885,2023-04-09,Not as described,Pending
+219,12890,2023-08-19,Late Delivery,Refunded
+220,12893,2025-05-10,Late Delivery,Refunded
+221,12914,2024-06-12,Late Delivery,Pending
+222,12924,2023-07-08,Late Delivery,Pending
+223,12930,2024-06-13,Wrong Item,Pending
+224,12949,2023-11-30,Changed Mind,Refunded
+225,12960,2024-01-13,Wrong Item,Replaced
+226,12973,2024-04-26,Changed Mind,Refunded
+227,12975,2024-04-08,Damaged,Replaced
+228,12979,2024-11-24,Damaged,Pending
+229,12986,2023-05-17,Late Delivery,Replaced

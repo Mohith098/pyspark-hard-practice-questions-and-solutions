@@ -1,0 +1,88 @@
+product_id,product_name,category,sub_category,price,cost,brand
+1,Laptop_Model_1,Electronics,Laptop,25532.82,15955.39,BrandB
+2,Laptop_Model_2,Electronics,Laptop,24026.09,13338.41,BrandE
+3,Laptop_Model_3,Electronics,Laptop,37907.83,28612.92,BrandC
+4,Laptop_Model_4,Electronics,Laptop,68610.42,37276.42,BrandD
+5,Mobile_Model_5,Electronics,Mobile,45012.76,35575.2,BrandE
+6,Mobile_Model_6,Electronics,Mobile,42422.85,26154.78,BrandC
+7,Headphones_Model_7,Electronics,Headphones,26454.53,13854.8,BrandD
+8,Headphones_Model_8,Electronics,Headphones,67778.31,35769.27,BrandB
+9,Tablet_Model_9,Electronics,Tablet,21513.5,15104.66,BrandE
+10,Tablet_Model_10,Electronics,Tablet,3211.83,1676.05,BrandE
+11,Camera_Model_11,Electronics,Camera,53732.47,30364.49,BrandB
+12,Camera_Model_12,Electronics,Camera,69564.43,41730.96,BrandA
+13,Camera_Model_13,Electronics,Camera,16984.03,9460.23,BrandA
+14,Camera_Model_14,Electronics,Camera,59762.99,43405.81,BrandB
+15,Smart Watch_Model_15,Electronics,Smart Watch,48371.9,27153.76,BrandB
+16,Smart Watch_Model_16,Electronics,Smart Watch,44188.74,32375.06,BrandD
+17,Smart Watch_Model_17,Electronics,Smart Watch,37326.72,25927.75,BrandC
+18,Smart Watch_Model_18,Electronics,Smart Watch,20961.85,13705.8,BrandD
+19,Shirt_Model_19,Clothing,Shirt,7933.73,6302.52,BrandD
+20,Shirt_Model_20,Clothing,Shirt,60942.24,36325.84,BrandB
+21,Shirt_Model_21,Clothing,Shirt,29687.86,18530.54,BrandE
+22,Jeans_Model_22,Clothing,Jeans,59313.13,29945.18,BrandE
+23,Jeans_Model_23,Clothing,Jeans,74783.92,50385.13,BrandD
+24,Jacket_Model_24,Clothing,Jacket,12235.29,7328.44,BrandD
+25,Jacket_Model_25,Clothing,Jacket,45604.67,26164.27,BrandE
+26,Jacket_Model_26,Clothing,Jacket,52385.91,36955.85,BrandC
+27,Dress_Model_27,Clothing,Dress,77322.34,53546.37,BrandD
+28,Dress_Model_28,Clothing,Dress,36893.28,26556.95,BrandC
+29,Dress_Model_29,Clothing,Dress,13582.79,9726.56,BrandD
+30,Shoes_Model_30,Clothing,Shoes,73356.11,48608.77,BrandA
+31,Shoes_Model_31,Clothing,Shoes,41939.36,31526.68,BrandA
+32,Saree_Model_32,Clothing,Saree,3928.73,1971.89,BrandB
+33,Saree_Model_33,Clothing,Saree,67411.45,38386.1,BrandB
+34,Saree_Model_34,Clothing,Saree,780.86,508.9,BrandC
+35,Saree_Model_35,Clothing,Saree,4882.99,3375.7,BrandE
+36,Sofa_Model_36,Home,Sofa,52759.78,26628.89,BrandE
+37,Sofa_Model_37,Home,Sofa,44153.9,22233.93,BrandE
+38,Sofa_Model_38,Home,Sofa,57789.31,38182.64,BrandC
+39,Bed_Model_39,Home,Bed,40202.17,28517.72,BrandD
+40,Bed_Model_40,Home,Bed,64503.11,49856.52,BrandA
+41,Lamp_Model_41,Home,Lamp,41974.61,24021.68,BrandE
+42,Lamp_Model_42,Home,Lamp,42140.16,31376.06,BrandC
+43,Curtain_Model_43,Home,Curtain,6367.59,5016.32,BrandD
+44,Curtain_Model_44,Home,Curtain,45221.92,36045.03,BrandB
+45,Curtain_Model_45,Home,Curtain,24032.97,17986.72,BrandA
+46,Carpet_Model_46,Home,Carpet,79334.39,55134.89,BrandA
+47,Carpet_Model_47,Home,Carpet,7525.37,4618.92,BrandE
+48,Carpet_Model_48,Home,Carpet,38106.61,26332.6,BrandB
+49,Carpet_Model_49,Home,Carpet,6660.76,5019.54,BrandC
+50,Dining Table_Model_50,Home,Dining Table,78187.47,61936.35,BrandE
+51,Dining Table_Model_51,Home,Dining Table,73536.22,41836.96,BrandE
+52,Dining Table_Model_52,Home,Dining Table,38066.25,19564.86,BrandA
+53,Dining Table_Model_53,Home,Dining Table,54770.08,31991.86,BrandE
+54,Fiction_Model_54,Books,Fiction,52665.83,29166.67,BrandC
+55,Fiction_Model_55,Books,Fiction,1301.86,731.84,BrandB
+56,Fiction_Model_56,Books,Fiction,60192.74,42966.39,BrandD
+57,Fiction_Model_57,Books,Fiction,74313.55,43828.87,BrandE
+58,Non-Fiction_Model_58,Books,Non-Fiction,45357.34,34237.2,BrandE
+59,Non-Fiction_Model_59,Books,Non-Fiction,26571.8,19309.27,BrandB
+60,Comics_Model_60,Books,Comics,57946.88,37679.25,BrandC
+61,Comics_Model_61,Books,Comics,4343.03,2741.0,BrandA
+62,Comics_Model_62,Books,Comics,27280.39,19933.83,BrandE
+63,Comics_Model_63,Books,Comics,31766.41,23255.12,BrandA
+64,Biography_Model_64,Books,Biography,21902.5,17473.28,BrandD
+65,Biography_Model_65,Books,Biography,18289.66,12179.29,BrandD
+66,Biography_Model_66,Books,Biography,34576.24,24338.51,BrandD
+67,Biography_Model_67,Books,Biography,6901.24,4731.39,BrandB
+68,Textbook_Model_68,Books,Textbook,5926.86,3439.9,BrandD
+69,Textbook_Model_69,Books,Textbook,56948.59,39304.22,BrandD
+70,Textbook_Model_70,Books,Textbook,25368.42,13495.12,BrandA
+71,Textbook_Model_71,Books,Textbook,75439.67,47785.05,BrandC
+72,Rice_Model_72,Grocery,Rice,10643.94,5920.35,BrandD
+73,Rice_Model_73,Grocery,Rice,44580.95,29144.0,BrandA
+74,Flour_Model_74,Grocery,Flour,7215.03,4807.13,BrandE
+75,Flour_Model_75,Grocery,Flour,47863.6,28590.32,BrandD
+76,Oil_Model_76,Grocery,Oil,23383.2,14412.0,BrandA
+77,Oil_Model_77,Grocery,Oil,58001.27,38736.78,BrandB
+78,Sugar_Model_78,Grocery,Sugar,41712.31,29431.99,BrandB
+79,Sugar_Model_79,Grocery,Sugar,11150.26,6582.44,BrandD
+80,Sugar_Model_80,Grocery,Sugar,11717.49,6446.52,BrandC
+81,Sugar_Model_81,Grocery,Sugar,33717.13,21756.63,BrandA
+82,Spices_Model_82,Grocery,Spices,20173.39,11579.06,BrandD
+83,Spices_Model_83,Grocery,Spices,47524.82,26550.43,BrandA
+84,Spices_Model_84,Grocery,Spices,10882.39,5463.29,BrandD
+85,Snacks_Model_85,Grocery,Snacks,67336.99,41342.69,BrandC
+86,Snacks_Model_86,Grocery,Snacks,35245.82,22176.14,BrandE
+87,Snacks_Model_87,Grocery,Snacks,10933.15,6518.34,BrandB
